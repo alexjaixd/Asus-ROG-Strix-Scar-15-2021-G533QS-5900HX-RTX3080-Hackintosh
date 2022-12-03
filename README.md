@@ -7,7 +7,7 @@ This repository is for the documentation of installing Mac OS on to an 2021 Asus
 
 So if you have a laptop with 5900HX and is not a Strix Scar 15, this EFI might or might not work for you. But you're welcomed to try and see for yourself.
 
-**Current Booted Version** :Opencore 0.8.6
+**Current Booted Version** :Opencore 0.8.5
 
 **Current Status** :Alpha build WIP (needs a lot of development)
 
