@@ -18,3 +18,16 @@ So if you have a laptop with 5900HX and is not a Strix Scar 15, this EFI might o
 - Ventura (Boots, only recognises as 1 CPU core)
 
 ![screenshot blurred serial](https://user-images.githubusercontent.com/86264021/205434871-ed1778d4-db22-4987-a30f-c959720916ca.png)
+
+Machine Specs:
+- CPU: AMD Ryzen 9 5900HX
+- iGPU: AMD Cezanne [Radeon Vega Mobile]
+- GPU: RTX3080 Laptop GPU GA104M
+- RAM: 32GB 3200MHZ DDR4
+- Wifi & BT: Intel Killer AX1675X (AX210 chipset)
+
+What's working:
+- Intel Wifi & Bluetooth (Airportitlwm)
+- Keyboard (works but problematic)
+- Volume hotkeys
+- USB Ports
